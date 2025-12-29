@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../question4/question4.csproj" />
+  <Project Path="../question5/question5.csproj" />
+  <Project Path="question3.csproj" />
+</Solution>
